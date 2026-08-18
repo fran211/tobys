@@ -154,13 +154,24 @@ Hablar con amigos y familia
 
 > ** 7:00 pm ** — Hago mis tareas. 
 
-> ** 10:00 pm ** — Me preparo para dormir. 
+> ** 12:00 pm ** — Me preparo para dormir. 
 
 ----------
 
 # Mi código
 
-`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ` ` python def mi_dia ( ) : despertar ( ) estudiar ( ) almorzar ( ) hacer_tareas ( ) jugar ( ) descansar ( ) mi_dia ( ) ` ` `                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
+
+Levantarse
+Prepararse para el colegio
+Ir a estudiar
+Almorzar
+Hacer las tareas
+Jugar videojuegos
+Cenar
+Prepararse para dormir
+
+FIN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
  
 
 
