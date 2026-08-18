@@ -6,161 +6,155 @@
 
 ----------
 
-# 2. Tabla de datos personales
+# Conociendo a Juan José
 
-Dato
+![Imagen personal](https://images.unsplash.com/photo-1535713875002-d1d0cf377fde)
 
-Información
+> “Nunca dejes de aprender, porque cada día puedes ser mejor que ayer.”
 
-Nombre
+---
 
-Juan José Franco Mosquera
+# Mis datos personales
 
-Edad
+| Dato            | Información               |
+| --------------- | ------------------------- |
+| Nombre          | Juan José Franco Mosquera |
+| Edad            | 15 años                   |
+| Ciudad          | Medellín, Colombia        |
+| Hobby           | Videojuegos               |
+| Deporte         | Fútbol                    |
+| Comida favorita | Hamburguesa               |
 
-15 años
+---
 
-Ciudad
+# Mi línea del tiempo
 
-Medellín, Colombia
+1. **2011:** Nací en Medellín.
+2. **2015:** Comencé el preescolar.
+3. **2017:** Entré a la primaria.
+4. **2021:** Empecé a interesarme más por los videojuegos y la tecnología.
+5. **2024:** Me interesé por aprender a arreglar diferentes cosas.
+6. **2026:** Tengo 15 años y continúo estudiando para mejorar cada día.
 
-Hobby favorito
+---
 
-Jugar videojuegos
+# Lo que me gusta
 
-Deporte favorito
+* Jugar fútbol
+* Jugar videojuegos
+* Practicar natación
+* Arreglar cosas
+* La tecnología
+* Comer hamburguesas
+* Ver partidos de fútbol
 
-Fútbol
+---
 
-----------
+# Lo que no soporto
 
-# 3. Mi línea del tiempo
+* Las mentiras
+* Las personas groseras
+* Las injusticias
+* Que dañen mis cosas
+* Las tareas demasiado largas
+* Que me molesten sin razón
 
-1.  **2011:** Nací en Medellín, Colombia.
-2.  **2014:** Empecé el preescolar.
-3.  **2016:** Entré a primaria.
-4.  **2020:** Continué mis estudios durante la pandemia.
-5.  **2025:** Seguí avanzando en mis estudios.
-6.  **2026:** Tengo 15 años y continúo estudiando y aprendiendo cosas nuevas.
+---
 
-----------
+# Mis hobbies
 
-# 4. Lo que me gusta ❤️
+* [x] **Videojuegos**
+  Me gusta jugar en mis tiempos libres y divertirme.
 
--   ⚽ Jugar fútbol.
--   🎮 Jugar videojuegos.
--   🏊 Practicar natación.
--   🍔 Comer hamburguesas.
--   🔧 Arreglar cosas.
+* [x] **Fútbol**
+  Me gusta jugar y ver partidos.
 
-## Lo que no soporto 😡
+* [x] **Natación**
+  Es una actividad que practico y disfruto.
 
--   ❌ Las personas groseras.
--   ❌ Las mentiras.
--   ❌ Las injusticias.
--   ❌ Que dañen mis cosas.
--   ❌ Tener demasiado trabajo.
+* [x] **Arreglar cosas**
+  Me gusta descubrir cómo funcionan las cosas y tratar de repararlas.
 
-----------
+* [x] **Tecnología**
+  Me interesa aprender sobre computadores y dispositivos.
 
-# 5. Mis hobbies
+---
 
--   🎮 **Videojuegos:** Me gusta jugar en mi tiempo libre.
-    
--   ⚽ **Fútbol:** Me gusta jugar y ver partidos.
-    
--   🏊 **Natación:** Me gusta practicar y mejorar.
-    
--   🔧 **Arreglar cosas:** Me gusta descubrir cómo funcionan las cosas.
-    
--   💻 **Tecnología:** Me interesa aprender sobre computadores y dispositivos.
-    
+# Tecnología que uso
 
-----------
+| Tecnología    | Uso                         |
+| ------------- | --------------------------- |
+| iPhone        | Comunicación y aplicaciones |
+| PlayStation 4 | Videojuegos                 |
+| YouTube       | Videos y entretenimiento    |
+| WhatsApp      | Hablar con amigos y familia |
 
-# 6. Tecnología que uso
+---
 
-Tecnología
+# Un día en mi vida
 
-Uso
+> **6:00 a. m.** — Me levanto y me preparo para el colegio.
 
-📱 Celular
+> **7:00 a. m.** — Empiezo mis clases.
 
-Comunicación, videos y redes sociales
+> **12:00 p. m.** — Almuerzo y descanso.
 
-💻 Computador
+> **2:00 p. m.** — Termino mis actividades.
 
-Tareas, investigaciones y juegos
+> **4:00 p. m.** — Juego o hago alguna actividad que me guste.
 
-🎮 Videojuegos
+> **7:00 p. m.** — Hago mis tareas.
 
-Entretenimiento
+> **10:00 p. m.** — Me preparo para dormir.
 
-🌐 Google
+---
 
-Buscar información
+# Mi código
 
-----------
+```python
+def mi_dia():
+    despertar()
+    estudiar()
+    almorzar()
+    hacer_tareas()
+    jugar()
+    descansar()
 
-# 7. Un día en mi vida
-
-1.  **6:00 a. m.** — Me levanto y me preparo para estudiar.
-2.  **7:00 a. m.** — Empiezo las clases.
-3.  **12:00 p. m.** — Almuerzo.
-4.  **1:00 p. m.** — Continúo con las clases.
-5.  **4:00 p. m.** — Llego a casa y descanso.
-6.  **5:00 p. m.** — Hago mis tareas.
-7.  **7:00 p. m.** — Juego videojuegos o uso el celular.
-8.  **9:00 p. m.** — Me preparo para dormir.
-
-> "Cada día trato de aprender algo nuevo y mejorar un poco más."
-
-----------
-
-# 8. Un bloque de código
-
-```
-INICIO
-
-  Levantarme()
-  IrAlColegio()
-  Estudiar()
-  HacerTareas()
-
-  SI tengo_tiempo_libre ENTONCES
-      JugarVideojuegos()
-      PracticarFutbol()
-  FIN SI
-
-  Dormir()
-
-FIN
+mi_dia()
 ```
 
-----------
+---
 
-# 9. Una sección con enlaces
+# Cosas que me gustan
 
--   [Real Madrid](https://www.realmadrid.com/)
--   [Atlético Nacional](https://atlnacional.com.co/)
--   [Google](https://www.google.com/)
+### Real Madrid
 
-### Imagen con link
+[Visitar Real Madrid](https://www.realmadrid.com/)
 
-List item
+### Atlético Nacional
 
-  
+[Visitar Atlético Nacional](https://www.atlnacional.com.co/)
 
-----------
+### PlayStation
 
-# 10. Cierre creativo
+[Visitar PlayStation](https://www.playstation.com/)
 
-----------
+---
 
-> "El futuro depende de lo que hagamos hoy."
+# Una imagen que me gusta
 
-**GitHub:**  [
+[![Videojuegos](https://images.unsplash.com/photo-1542751371-adc38448a05e)](https://www.playstation.com/)
 
-**Fecha de creación:** 13 de agosto de 2026
+---
 
- - List item
+# Gracias por ver mi presentación
+
+> “Siempre hay algo nuevo que aprender y algo nuevo que mejorar.”
+
+---
+
+## Juan José Franco Mosquera
+
+**GitHub:** [Mi perfil](https://github.com/)
+
+**Fecha de creación:** 18 de agosto de 2026
