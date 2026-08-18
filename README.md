@@ -1,6 +1,5 @@
 # 👋 Juan José Franco Mosquera
 
-  ![Regalos y productos: Lebron James Chibi | Redbubble](https://ih1.redbubble.net/image.2440107069.7277/st,small,507x507-pad,600x600,f8f8f8.u2.jpg)
 
 > "Nunca hay que rendirse, siempre se puede aprender algo nuevo."
 
