@@ -40,7 +40,12 @@ Hamburguesa
 
 # Mi línea del tiempo
 
-1. ** 2011: ** Nací en Medellín. 2. ** 2015: ** Comencé el preescolar. 3. ** 2017: ** Entré a la primaria. 4. ** 2021: ** Empecé a interesarme más por los videojuegos y la tecnología. 5. ** 2024: ** Me interesé por aprender a arreglar diferentes cosas. 6. ** 2026: ** Tengo 15 años y continúo estudiando para mejorar cada día.
+ 1. ** 2011: ** Nací en Medellín.
+ 2. ** 2015: ** Comencé el preescolar.
+ 3. ** 2017: ** Entré a la primaria.
+ 4. ** 2021: ** Empecé a interesarme más por los videojuegos y la tecnología.
+ 5. ** 2024: ** Me interesé por aprender a arreglar diferentes cosas.
+ 6. ** 2026: ** Tengo 15 años y continúo estudiando para mejorar cada día.
     
  
     
