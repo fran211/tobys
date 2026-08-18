@@ -7,7 +7,7 @@
 
 # Conociendo a Juan José
 
-![Imagen personal](https://images.unsplash.com/photo-1535713875002-d1d0cf377fde)
+
 
 > “Nunca dejes de aprender, porque cada día puedes ser mejor que ayer.”
 
